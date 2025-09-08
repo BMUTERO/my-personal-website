@@ -1,11 +1,7 @@
-body {
-background: rgb(238, 236, 144);
-}
-h1 {
-    
-    background-color: dodgerblue;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-decoration: underline;
-    text-decoration-color: purple;;
-}
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 10px;
+  font-family: sans-serif;
+  background-color: cornsilk;
+
