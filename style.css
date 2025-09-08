@@ -5,3 +5,10 @@
   font-family: sans-serif;
   background-color: cornsilk;
 
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
