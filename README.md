@@ -1,5 +1,5 @@
 # My Personal Website /Portfolio
-An illustration by Sdf-pt-12 on how to stucture your portfolio landing page
+Designing my Portfolio Website and Hosting it in Github
 
 ## Author
 * Benson Mwangi
