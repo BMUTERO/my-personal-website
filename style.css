@@ -24,6 +24,8 @@ nav a:hover {
 }
 footer {
   text-align: center;
-  text-decoration: blue;
+  font-style: italic;
+  text-decoration-line: underline;
+}
   
 
